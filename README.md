@@ -1,16 +1,35 @@
-## Hi there 👋
 
-<!--
-**laithanhhung/laithanhhung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Lai Thanh Hung®
 
-Here are some ideas to get you started:
+### Frontend Developer crafting digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build thoughtful, interactive and visually refined web interfaces — where design meets code.
+
+---
+
+### SELECTED WORK
+
+**01 / FreshFlow**
+B2B procurement platform connecting restaurants with wholesale markets.
+- Angular · TypeScript · Tailwind CSS
+- Focus: UI engineering, responsive design and real-time experiences
+
+**02 / Experiments**
+A playground for exploring frontend techniques, interaction patterns and modern web design.
+
+---
+
+### WHAT I DO
+
+- Frontend Development
+- Responsive Web Design
+- UI Engineering & Design Systems
+- Interactive Experiences & Animation
+- Performance & Accessibility
+
+### TOOLKIT
+
+Angular · TypeScript · JavaScript · HTML · CSS
+Tailwind CSS · Angular Material · Git
+
+*Building interfaces with intention.*
