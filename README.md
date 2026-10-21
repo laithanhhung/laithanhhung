@@ -1,16 +1,30 @@
-*Lai Thanh Hung*®
 
-### Frontend Developer crafting digital experiences.
+<h2 align="left">Lai Thanh Hung</h1>
 
-I build thoughtful, interactive and visually refined web interfaces — where design meets code.
----
+<p align="left">
+  <sub>Frontend Developer crafting digital experiences.</sub>
+</p>
 
-### WHAT I DO
+<p align="left">
+  <sub>
+    I build thoughtful, interactive and visually refined web interfaces — where design meets code.
+  </sub>
+</p>
 
-- Frontend Development
-- Responsive Web Design
-- UI Engineering & Design Systems
-- Interactive Experiences & Animation
-- Performance & Accessibility
+<br>
 
-*Building interfaces with intention.*
+<p><strong>What I do</strong></p>
+
+<p>
+  <sub>
+    Frontend Development<br>
+    Responsive Web Design<br>
+    UI Engineering &amp; Design Systems<br>
+    Interactive Experiences &amp; Animation<br>
+    Performance &amp; Accessibility
+  </sub>
+</p>
+
+<br>
+
+<p><em><sub>Building interfaces with intention.</sub></em></p>
