@@ -1,12 +1,4 @@
 
-<h2 align="left">Lai Thanh Hung</h1>
-
-<p align="left">
-  <sub>Frontend Developer crafting digital experiences.</sub>
-</p>
-
-<p align="left">
-  <sub>
-    I build thoughtful, interactive and visually refined web interfaces — where design meets code.
-  </sub>
+<p align="center">
+  <img src="./75d9b372b1f43b2cf8ea65d2247b1fa7.jpg" width="100%" alt="Cover" />
 </p>
